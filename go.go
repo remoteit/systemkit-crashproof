@@ -4,7 +4,7 @@ import (
 	"runtime/debug"
 	"sync"
 
-	callstack "github.com/codemodify/systemkit-callstack"
+	callstack "github.com/remoteit/systemkit-callstack"
 )
 
 // ConcurrentCodeCrashCatcherDelegate -
